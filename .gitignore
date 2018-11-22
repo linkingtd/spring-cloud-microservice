@@ -85,7 +85,7 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
-.mvn/timing.properties
+.mvn
 # ignore eclipse files
 .project
 .classpath
