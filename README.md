@@ -1,3 +1,10 @@
+ # 工程需要提交的文件
+ - src
+ - pom.xml
+ - README.MD
+ - .gitignore
+
+
 # Environment
 + Java : 1.8+   
 + Spring Boot : 2.0.3.RELEASE   
