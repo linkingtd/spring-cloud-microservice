@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/jarvisqi/spring-cloud-microservice
+          uri: https://github.com/linkingtd/spring-cloud-microservice
           search-paths: config-server
           username:
           password:
